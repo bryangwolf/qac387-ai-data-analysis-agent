@@ -1,0 +1,10 @@
+{
+  "target": "bill_depth_mm",
+  "dtype": "float64",
+  "missing_rate": 0.005813953488372093,
+  "n_unique": 80,
+  "mean": 17.151169590643278,
+  "std": 1.9747931568167816,
+  "min": 13.1,
+  "max": 21.5
+}
